@@ -2,7 +2,7 @@
 using System;
 namespace JonSkeetQuiz {
 
-	public class Test {
+	public class Question21 {
 		[Test()]
 		public void Question11() {
 
